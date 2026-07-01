@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,QuantitySold,Promotion,Discount,Rating,CustomerAge,CustomerGender,CustomerLocation,PurchaseDate
+1001,Badminton Set,Electronics,50,77,Yes,32,4,64,Female,Australia,2022-01-01
+1002,Curtains,Electronics,196,38,Yes,45,,24,Male,China,2022-01-02
+1003,Hoodie,Beauty,336,8,No,4,,36,Male,India,2022-01-03
+1004,Mascara,Beauty,191,78,No,42,1,39,Male,Australia,2022-01-04
+1005,Gaming Console,Sports,102,74,No,47,,52,Female,Russia,2022-01-05
+1006,Sofa,Home & Garden,353,1,No,33,5,47,Male,Brazil,2022-01-06
+1007,Badminton Set,Electronics,118,50,No,39,1,46,Male,Russia,2022-01-07
+1008,Jacket,Home & Garden,410,30,Yes,10,1,39,Female,Germany,2022-01-08
+1009,Dining Table,Home & Garden,139,22,Yes,49,3,28,Female,France,2022-01-09
+1010,T-Shirt,Beauty,495,39,Yes,2,1,37,Female,South Africa,2022-01-10
+1011,T-Shirt,Sports,269,57,Yes,32,4,46,Male,Canada,2022-01-11
+1012,Refrigerator,Clothing,499,95,Yes,10,3,58,Male,South Africa,2022-01-12
+1013,Football,Sports,241,60,No,15,5,59,Female,Italy,2022-01-13
+1014,Skateboard,Sports,112,75,No,17,5,51,Female,India,2022-01-14
+1015,Refrigerator,Home & Garden,122,22,No,29,4,18,Male,Mexico,2022-01-15
+1016,Tablet,Sports,210,70,No,47,4,48,Female,Russia,2022-01-16
+1017,Bed,Electronics,218,13,Yes,9,5,47,Male,Japan,2022-01-17
+1018,Laptop,Home & Garden,138,50,Yes,17,,35,Female,Brazil,2022-01-18
+1019,Refrigerator,Electronics,225,50,Yes,37,5,34,Female,Canada,2022-01-19
+1020,Eyeshadow Palette,Clothing,318,87,No,18,5,55,Female,United Kingdom,2022-01-20
+1021,Rug,Home & Garden,122,17,Yes,35,5,31,Male,South Africa,2022-01-21
+1022,Golf Clubs,Clothing,294,47,No,12,4,40,Male,France,2022-01-22
+1023,Laptop,Home & Garden,126,32,Yes,45,3,42,Female,South Africa,2022-01-23
+1024,Sofa,Beauty,208,30,Yes,2,4,32,Male,United States,2022-01-24
+1025,Yoga Mat,Sports,373,28,No,9,5,63,Female,Japan,2022-01-25
+1026,Jeans,Beauty,147,75,Yes,37,1,39,Female,Spain,2022-01-26
+1027,Bed,Clothing,430,38,Yes,0,5,20,Male,Germany,2022-01-27
+1028,Eyeshadow Palette,Sports,151,6,No,26,3,36,Male,France,2022-01-28
+1029,Microwave,Home & Garden,181,87,Yes,45,2,61,Male,Spain,2022-01-29
+1030,Hair Dryer,Sports,151,59,No,7,2,51,Male,Australia,2022-01-30
+1031,Vacuum Cleaner,Electronics,68,99,Yes,45,1,52,Female,China,2022-01-31
+1032,Foundation,Sports,131,59,Yes,41,4,18,Male,Australia,2022-02-01
+1033,Air Purifier,Electronics,446,87,Yes,16,3,38,Male,Russia,2022-02-02
+1034,Sweater,Sports,,54,Yes,8,,46,Female,Australia,2022-02-03
+1035,Hoodie,Electronics,388,63,Yes,5,4,23,Female,United Kingdom,2022-02-04
+1036,Facial Cleanser,Clothing,414,74,Yes,42,,54,Female,Russia,2022-02-05
+1037,Eyeshadow Palette,Beauty,380,-6,Yes,24,4,18,Female,India,2022-02-06
+1038,Tablet,Home & Garden,178,-9,Yes,38,5,18,Male,United States,2022-02-07
+1039,Tennis Racket,Sports,393,11,No,48,5,44,Male,Japan,2022-02-08
+1040,TV,Beauty,359,46,No,27,1,38,Female,Mexico,2022-02-09
+1041,Sofa,Home & Garden,138,55,Yes,32,5,33,Female,India,2022-02-10
+1042,Printer,Home & Garden,262,63,Yes,36,5,61,Male,France,2022-02-11
+1043,Badminton Set,Electronics,192,87,No,8,2,57,Male,Spain,2022-02-12
+1044,Shorts,Clothing,114,5,Yes,17,1,43,Male,Spain,2022-02-13
+1045,Headphones,Clothing,125,40,Yes,20,4,33,Male,Australia,2022-02-14
+1046,Microwave,Beauty,248,28,No,1,2,45,Male,United Kingdom,2022-02-15
+1047,Shoes,Clothing,192,75,Yes,42,5,18,Female,South Africa,2022-02-16
+1048,Nail Polish,Sports,454,65,Yes,37,3,53,Female,South Africa,2022-02-17
+1049,Printer,Clothing,452,77,No,39,,27,Female,Mexico,2022-02-18
+1050,Coffee Maker,Beauty,365,29,Yes,35,4,60,Female,Russia,2022-02-19
+1051,Laptop,Clothing,142,27,Yes,49,2,34,Male,France,2022-02-20
+1052,Socks,Sports,466,49,No,42,2,40,Female,China,2022-02-21
+1053,Air Purifier,Electronics,354,48,Yes,36,4,24,Male,United States,2022-02-22
+1054,Facial Cleanser,Beauty,273,-1,No,14,5,61,Male,Japan,2022-02-23
+1055,TV,Electronics,340,88,Yes,27,5,24,Male,China,2022-02-24
+1056,Eyeshadow Palette,Electronics,477,53,Yes,17,3,61,Male,Russia,2022-02-25
+1057,Gaming Console,Electronics,151,52,No,33,3,32,Male,United Kingdom,2022-02-26
+1058,Facial Cleanser,Home & Garden,316,38,No,21,1,51,Male,United States,2022-02-27
+1059,Basketball,Home & Garden,404,53,Yes,10,4,63,Male,France,2022-02-28
+1060,Shoes,Electronics,159,21,No,12,1,62,Female,Australia,2022-03-01
+1061,Skirt,Beauty,379,-4,No,3,4,21,Male,Australia,2022-03-02
+1062,Football,Sports,499,10,Yes,21,4,31,Female,Brazil,2022-03-03
+1063,Nail Polish,Sports,479,9,Yes,6,,31,Female,Australia,2022-03-04
+1064,Skateboard,Clothing,314,15,Yes,42,3,33,Male,Canada,2022-03-05
+1065,Headphones,Beauty,52,57,No,23,3,24,Male,Italy,2022-03-06
+1066,Laptop,Home & Garden,134,99,No,3,4,49,Female,Australia,2022-03-07
+1067,Camera,Electronics,331,75,No,27,4,36,Female,Italy,2022-03-08
+1068,Foundation,Clothing,377,4,No,14,3,19,Female,Canada,2022-03-09
+1069,Headphones,Sports,353,93,Yes,0,,27,Female,Mexico,2022-03-10
+1070,Curtains,Home & Garden,499,74,No,2,5,34,Male,Italy,2022-03-11
+1071,Shorts,Home & Garden,461,68,Yes,13,3,54,Male,Germany,2022-03-12
+1072,Coffee Maker,Electronics,166,75,No,37,3,29,Male,Canada,2022-03-13
+1073,Eyeshadow Palette,Sports,270,81,Yes,49,4,23,Female,United States,2022-03-14
+1074,Exercise Bike,Beauty,203,3,Yes,0,5,39,Male,China,2022-03-15
+1075,Wireless Earbuds,Home & Garden,202,16,Yes,37,1,49,Female,United States,2022-03-16
+1076,Football,Electronics,61,94,No,37,4,58,Male,China,2022-03-17
+1077,Shoes,Beauty,182,29,Yes,20,4,37,Female,Brazil,2022-03-18
+1078,Treadmill,Sports,353,47,Yes,47,3,18,Male,Germany,2022-03-19
+1079,Moisturizer,Home & Garden,342,17,No,28,4,64,Male,China,2022-03-20
+1080,Hoodie,Beauty,349,15,Yes,4,,23,Female,China,2022-03-21
+1081,Gaming Console,Beauty,277,52,No,48,1,36,Female,United Kingdom,2022-03-22
+1082,Shoes,Beauty,320,55,No,9,3,35,Female,India,2022-03-23
+1083,Dining Table,Home & Garden,92,14,Yes,27,4,23,Female,India,2022-03-24
+1084,Skateboard,Home & Garden,481,-8,Yes,20,5,62,Female,United Kingdom,2022-03-25
+1085,Sofa,Clothing,392,61,No,49,,50,Male,Australia,2022-03-26
+1086,Sweater,Sports,375,33,Yes,6,4,40,Female,Italy,2022-03-27
+1087,Blush,Electronics,351,86,No,2,5,40,Male,United Kingdom,2022-03-28
+1088,Shorts,Beauty,413,31,No,44,4,43,Male,South Africa,2022-03-29
+1089,Facial Cleanser,Clothing,428,88,No,46,4,30,Male,China,2022-03-30
+1090,Refrigerator,Electronics,476,-5,Yes,19,3,24,Male,China,2022-03-31
+1091,Coffee Maker,Clothing,70,28,No,18,3,32,Male,United Kingdom,2022-04-01
+1092,Microwave,Home & Garden,456,41,Yes,34,3,61,Female,United Kingdom,2022-04-02
+1093,Blush,Beauty,,12,Yes,3,4,44,Female,South Africa,2022-04-03
+1094,Lipstick,Electronics,385,78,Yes,4,1,43,Male,Spain,2022-04-04
+1095,Curtains,Electronics,352,39,Yes,0,,50,Male,Australia,2022-04-05
+1096,Hoodie,Electronics,166,32,No,3,2,32,Female,United States,2022-04-06
+1097,Blush,Electronics,173,8,Yes,11,,53,Female,Germany,2022-04-07
+1098,Smartphone,Electronics,448,58,No,26,,62,Male,France,2022-04-08
+1099,Microwave,Clothing,330,40,No,41,5,44,Female,Italy,2022-04-09
+1100,TV,Beauty,341,0,Yes,22,1,22,Female,China,2022-04-10
+1101,Printer,Home & Garden,252,1,No,24,3,19,Female,Mexico,2022-04-11
+1102,Refrigerator,Home & Garden,100,63,No,20,,50,Male,Germany,2022-04-12
+1103,Smartphone,Home & Garden,320,-3,Yes,23,3,33,Female,United Kingdom,2022-04-13
+1104,Eyeshadow Palette,Home & Garden,373,13,No,24,3,40,Male,South Africa,2022-04-14
+1105,Gaming Console,Clothing,326,81,No,44,5,55,Male,Australia,2022-04-15
+1106,Refrigerator,Sports,190,30,No,45,1,33,Male,Canada,2022-04-16
+1107,T-Shirt,Beauty,324,25,No,31,4,31,Male,Mexico,2022-04-17
+1108,Skirt,Electronics,339,90,Yes,31,3,46,Male,Australia,2022-04-18
+1109,Gaming Console,Sports,383,74,No,4,3,43,Female,Japan,2022-04-19
+1110,Basketball,Home & Garden,430,61,No,35,3,52,Male,Japan,2022-04-20
+1111,Basketball,Sports,422,44,No,45,1,32,Male,Germany,2022-04-21
+1112,Yoga Mat,Beauty,101,-2,No,41,3,20,Male,India,2022-04-22
+1113,Smartwatch,Electronics,76,36,Yes,48,1,40,Female,Japan,2022-04-23
+1114,Foundation,Electronics,206,4,No,41,5,46,Female,Japan,2022-04-24
+1115,Badminton Set,Beauty,288,37,Yes,38,3,51,Female,United States,2022-04-25
+1116,Lipstick,Beauty,205,99,No,15,4,50,Female,Canada,2022-04-26
+1117,Air Purifier,Home & Garden,340,93,Yes,32,5,58,Female,South Africa,2022-04-27
+1118,TV,Electronics,185,71,Yes,48,4,58,Female,United States,2022-04-28
+1119,Printer,Sports,193,31,Yes,20,1,40,Female,Canada,2022-04-29
+1120,Gaming Console,Clothing,155,49,Yes,8,,24,Male,South Africa,2022-04-30
+1121,Jeans,Clothing,469,73,Yes,5,3,20,Male,Italy,2022-05-01
+1122,Exercise Bike,Beauty,207,59,No,44,2,49,Female,Italy,2022-05-02
+1123,Yoga Mat,Home & Garden,195,1,No,34,5,48,Male,Brazil,2022-05-03
+1124,Moisturizer,Clothing,51,-9,No,38,4,35,Male,France,2022-05-04
+1125,Dining Table,Electronics,482,-4,Yes,21,4,60,Female,China,2022-05-05
+1126,Refrigerator,Beauty,126,69,No,40,3,24,Male,Spain,2022-05-06
+1127,Tennis Racket,Sports,,-8,Yes,4,4,58,Male,Spain,2022-05-07
+1128,Basketball,Beauty,139,98,Yes,41,3,18,Female,Japan,2022-05-08
+1129,Eyeshadow Palette,Sports,394,-8,No,22,,31,Male,Mexico,2022-05-09
+1130,Skateboard,Beauty,399,16,No,16,3,49,Female,South Africa,2022-05-10
+1131,Bed,Beauty,312,96,Yes,11,5,23,Female,China,2022-05-11
+1132,Vacuum Cleaner,Beauty,400,29,Yes,22,4,56,Male,Japan,2022-05-12
+1133,Basketball,Sports,,91,No,15,5,27,Male,United States,2022-05-13
+1134,Smartphone,Sports,123,22,No,2,5,24,Male,France,2022-05-14
+1135,Basketball,Beauty,88,81,No,29,,43,Female,United States,2022-05-15
+1136,Tennis Racket,Clothing,446,-10,No,21,3,51,Female,Italy,2022-05-16
+1137,Facial Cleanser,Home & Garden,208,-3,Yes,8,3,47,Female,South Africa,2022-05-17
+1138,Shoes,Home & Garden,120,90,No,28,3,53,Male,Russia,2022-05-18
+1139,Tablet,Home & Garden,496,21,No,46,5,38,Male,United States,2022-05-19
+1140,Smartphone,Sports,361,37,No,36,5,34,Female,Mexico,2022-05-20
+1141,Smartwatch,Sports,290,96,Yes,22,4,50,Male,Canada,2022-05-21
+1142,Coffee Maker,Clothing,475,90,Yes,12,2,27,Male,India,2022-05-22
+1143,Shoes,Home & Garden,494,-7,Yes,31,3,64,Female,Mexico,2022-05-23
+1144,Badminton Set,Home & Garden,347,83,Yes,45,4,59,Female,Australia,2022-05-24
+1145,Vacuum Cleaner,Beauty,489,59,No,46,4,29,Male,Germany,2022-05-25
+1146,Printer,Sports,85,99,Yes,47,5,33,Female,China,2022-05-26
+1147,Hoodie,Home & Garden,133,8,No,22,,58,Male,Brazil,2022-05-27
+1148,Hoodie,Clothing,423,21,No,44,2,49,Female,Japan,2022-05-28
+1149,Coffee Maker,Clothing,312,-2,No,16,4,32,Female,United States,2022-05-29
+1150,Foundation,Home & Garden,359,1,No,39,4,44,Female,India,2022-05-30
+1151,Dress,Sports,434,0,Yes,20,3,45,Male,United States,2022-05-31
+1152,Dumbbells,Clothing,221,35,Yes,1,2,34,Male,France,2022-06-01
+1153,Badminton Set,Beauty,425,5,Yes,36,1,63,Female,Canada,2022-06-02
+1154,Hair Dryer,Clothing,222,-10,No,5,5,19,Female,Brazil,2022-06-03
+1155,Dumbbells,Electronics,411,52,No,43,4,53,Female,Australia,2022-06-04
+1156,Headphones,Electronics,96,98,No,17,4,24,Male,South Africa,2022-06-05
+1157,Rug,Sports,428,10,No,29,,30,Female,France,2022-06-06
+1158,Tennis Racket,Home & Garden,190,19,No,21,5,32,Female,United Kingdom,2022-06-07
+1159,Dining Table,Sports,424,2,Yes,32,2,42,Female,Brazil,2022-06-08
+1160,Badminton Set,Sports,455,23,No,29,4,40,Female,United States,2022-06-09
+1161,Blush,Sports,167,-7,Yes,16,4,39,Male,Italy,2022-06-10
+1162,Hoodie,Sports,326,17,No,42,5,43,Male,France,2022-06-11
+1163,Mascara,Beauty,263,91,No,31,5,50,Female,Australia,2022-06-12
+1164,Curtains,Beauty,269,84,Yes,41,4,28,Male,Spain,2022-06-13
+1165,Football,Clothing,442,48,Yes,13,3,27,Male,Mexico,2022-06-14
+1166,Dress,Electronics,75,16,No,9,5,42,Male,India,2022-06-15
+1167,Dumbbells,Sports,58,58,No,46,1,54,Female,India,2022-06-16
+1168,TV,Clothing,320,14,No,35,2,60,Male,China,2022-06-17
+1169,Bed,Electronics,59,-8,No,33,3,55,Male,Australia,2022-06-18
+1170,Air Purifier,Home & Garden,427,86,Yes,8,1,58,Male,India,2022-06-19
+1171,Laptop,Beauty,170,57,No,41,3,62,Female,France,2022-06-20
+1172,Foundation,Electronics,174,14,Yes,27,5,41,Female,China,2022-06-21
+1173,Blush,Home & Garden,219,9,No,10,,57,Male,Russia,2022-06-22
+1174,Camera,Electronics,121,23,Yes,13,,63,Male,India,2022-06-23
+1175,Air Purifier,Beauty,201,15,Yes,38,3,50,Female,Brazil,2022-06-24
+1176,Air Purifier,Beauty,257,-6,No,46,3,34,Female,Spain,2022-06-25
+1177,Eyeshadow Palette,Clothing,98,88,Yes,18,3,41,Male,Italy,2022-06-26
+1178,Eyeshadow Palette,Sports,203,50,No,14,1,54,Male,Canada,2022-06-27
+1179,Socks,Electronics,396,81,Yes,27,,19,Female,Spain,2022-06-28
+1180,Rug,Electronics,342,82,No,23,,49,Female,United Kingdom,2022-06-29
+1181,T-Shirt,Home & Garden,117,-2,Yes,7,4,41,Male,Australia,2022-06-30
+1182,Air Purifier,Beauty,99,91,No,42,1,26,Female,France,2022-07-01
+1183,Microwave,Electronics,201,39,No,8,5,21,Male,Japan,2022-07-02
+1184,Badminton Set,Beauty,68,-5,Yes,46,5,34,Male,Italy,2022-07-03
+1185,Yoga Mat,Electronics,149,72,Yes,32,,34,Male,United States,2022-07-04
+1186,Smartphone,Clothing,109,49,Yes,32,5,47,Female,France,2022-07-05
+1187,Vacuum Cleaner,Sports,216,33,Yes,18,3,57,Male,Spain,2022-07-06
+1188,Dress,Electronics,251,0,No,2,3,28,Male,Spain,2022-07-07
+1189,Lipstick,Beauty,394,55,Yes,9,4,38,Female,India,2022-07-08
+1190,Tablet,Clothing,195,36,No,39,3,38,Female,France,2022-07-09
+1191,Badminton Set,Electronics,452,97,Yes,46,4,35,Male,Japan,2022-07-10
+1192,Camera,Home & Garden,213,97,No,41,1,46,Male,United States,2022-07-11
+1193,Gaming Console,Sports,488,62,No,0,1,41,Female,China,2022-07-12
+1194,Vacuum Cleaner,Electronics,291,74,No,28,4,27,Female,India,2022-07-13
+1195,Printer,Clothing,118,77,No,49,4,62,Female,Italy,2022-07-14
+1196,Tennis Racket,Home & Garden,224,87,Yes,33,5,34,Male,Germany,2022-07-15
+1197,Yoga Mat,Clothing,98,75,Yes,12,,35,Male,India,2022-07-16
+1198,Foundation,Clothing,157,-8,No,0,4,59,Male,United Kingdom,2022-07-17
+1199,Eyeshadow Palette,Home & Garden,275,65,Yes,33,2,37,Female,Russia,2022-07-18
+1200,Refrigerator,Clothing,210,81,Yes,28,1,54,Male,Germany,2022-07-19
+1201,Hoodie,Home & Garden,168,19,No,47,4,62,Female,United Kingdom,2022-07-20
+1202,Dumbbells,Electronics,198,79,Yes,46,2,35,Male,Japan,2022-07-21
+1203,Dumbbells,Home & Garden,199,10,Yes,12,3,34,Female,Australia,2022-07-22
+1204,Refrigerator,Home & Garden,481,17,Yes,47,,26,Male,United States,2022-07-23
+1205,Lipstick,Sports,342,79,No,48,3,31,Male,Canada,2022-07-24
+1206,Hair Dryer,Home & Garden,192,51,Yes,28,1,46,Female,China,2022-07-25
+1207,Hair Dryer,Home & Garden,468,22,No,38,1,48,Female,Canada,2022-07-26
+1208,Jeans,Electronics,209,74,Yes,23,2,21,Male,Brazil,2022-07-27
+1209,Badminton Set,Sports,60,24,Yes,25,1,35,Female,Brazil,2022-07-28
+1210,Laptop,Beauty,187,41,Yes,16,4,37,Female,Japan,2022-07-29
+1211,Tablet,Electronics,127,23,No,6,3,64,Male,Australia,2022-07-30
+1212,Hair Dryer,Electronics,126,30,No,12,3,60,Female,Russia,2022-07-31
+1213,Tennis Racket,Beauty,490,40,Yes,4,3,61,Male,Russia,2022-08-01
+1214,Hair Dryer,Home & Garden,303,36,No,25,4,26,Male,Brazil,2022-08-02
+1215,Skirt,Clothing,458,71,Yes,48,5,30,Female,Italy,2022-08-03
+1216,Hair Dryer,Sports,307,47,No,2,5,32,Female,Italy,2022-08-04
+1217,Laptop,Clothing,369,64,No,6,5,44,Male,Spain,2022-08-05
+1218,Laptop,Beauty,340,46,Yes,48,4,32,Male,Mexico,2022-08-06
+1219,Air Purifier,Electronics,312,12,Yes,38,4,45,Male,India,2022-08-07
+1220,Dining Table,Electronics,134,37,Yes,0,4,54,Male,France,2022-08-08
+1221,Tennis Racket,Sports,195,11,Yes,48,3,36,Male,United Kingdom,2022-08-09
+1222,Dumbbells,Electronics,372,6,No,16,,43,Male,Brazil,2022-08-10
+1223,Yoga Mat,Electronics,91,58,No,42,3,43,Female,Japan,2022-08-11
+1224,Smartphone,Sports,423,97,No,24,,42,Female,Spain,2022-08-12
+1225,Jacket,Sports,174,0,Yes,2,4,43,Female,South Africa,2022-08-13
+1226,Laptop,Beauty,216,83,Yes,14,5,43,Male,United Kingdom,2022-08-14
+1227,Eyeshadow Palette,Electronics,474,4,No,28,,63,Female,India,2022-08-15
+1228,Coffee Maker,Electronics,290,80,Yes,42,4,45,Male,Australia,2022-08-16
+1229,Dumbbells,Beauty,329,24,No,31,2,35,Male,United States,2022-08-17
+1230,Camera,Home & Garden,237,22,No,25,2,49,Female,Russia,2022-08-18
+1231,Dumbbells,Home & Garden,351,73,No,15,5,20,Male,Canada,2022-08-19
+1232,Headphones,Home & Garden,68,5,No,24,4,19,Male,India,2022-08-20
+1233,T-Shirt,Beauty,117,23,No,27,3,50,Male,China,2022-08-21
+1234,Skirt,Electronics,,55,Yes,8,5,59,Male,Germany,2022-08-22
+1235,Golf Clubs,Beauty,151,88,Yes,0,3,36,Male,Japan,2022-08-23
+1236,Refrigerator,Beauty,91,29,Yes,28,,34,Male,Russia,2022-08-24
+1237,Smartwatch,Home & Garden,337,17,No,21,,61,Female,Canada,2022-08-25
+1238,Exercise Bike,Clothing,216,36,No,15,3,50,Male,China,2022-08-26
+1239,Camera,Electronics,158,28,No,40,3,29,Male,United States,2022-08-27
+1240,Bed,Home & Garden,85,59,No,43,2,20,Male,China,2022-08-28
+1241,T-Shirt,Clothing,281,62,Yes,40,2,60,Male,South Africa,2022-08-29
+1242,Moisturizer,Clothing,278,9,Yes,6,4,43,Female,Australia,2022-08-30
+1243,Sweater,Sports,402,-10,No,13,5,52,Female,Italy,2022-08-31
+1244,Yoga Mat,Electronics,213,61,No,28,5,25,Male,Germany,2022-09-01
+1245,Printer,Clothing,436,76,No,18,2,53,Male,United Kingdom,2022-09-02
+1246,Camera,Home & Garden,122,52,Yes,18,4,24,Male,Canada,2022-09-03
+1247,Sweater,Sports,185,56,Yes,1,2,63,Female,Germany,2022-09-04
+1248,Curtains,Electronics,402,-7,Yes,40,1,63,Female,France,2022-09-05
+1249,Tablet,Beauty,428,47,No,44,4,53,Female,India,2022-09-06
+1250,Socks,Home & Garden,119,14,No,14,,33,Female,France,2022-09-07
+1251,Football,Clothing,474,36,Yes,2,1,41,Male,India,2022-09-08
+1252,Jacket,Clothing,245,27,No,10,1,18,Female,Australia,2022-09-09
+1253,Coffee Maker,Home & Garden,318,4,Yes,45,,42,Female,Germany,2022-09-10
+1254,Tablet,Clothing,98,52,No,29,1,27,Male,Italy,2022-09-11
+1255,Jacket,Sports,365,10,Yes,39,4,33,Male,United States,2022-09-12
+1256,Socks,Electronics,179,88,No,17,4,33,Female,Mexico,2022-09-13
+1257,Dumbbells,Sports,493,46,Yes,47,2,25,Female,Mexico,2022-09-14
+1258,TV,Clothing,54,42,Yes,1,2,46,Female,Italy,2022-09-15
+1259,Lipstick,Beauty,477,35,Yes,31,3,56,Female,Brazil,2022-09-16
+1260,Yoga Mat,Electronics,76,3,Yes,7,5,45,Male,China,2022-09-17
+1261,Skateboard,Electronics,209,89,Yes,21,4,23,Male,Spain,2022-09-18
+1262,Badminton Set,Home & Garden,198,65,Yes,5,4,33,Female,Brazil,2022-09-19
+1263,Shorts,Home & Garden,313,6,No,11,,37,Female,Germany,2022-09-20
+1264,Skateboard,Beauty,279,28,No,46,5,33,Female,France,2022-09-21
+1265,Smartphone,Electronics,249,-2,No,39,4,24,Female,Spain,2022-09-22
+1266,T-Shirt,Beauty,99,88,Yes,35,4,58,Female,Mexico,2022-09-23
+1267,Air Purifier,Home & Garden,116,66,Yes,14,4,31,Male,Brazil,2022-09-24
+1268,Microwave,Home & Garden,349,68,No,27,4,60,Male,Mexico,2022-09-25
+1269,Nail Polish,Electronics,430,71,Yes,48,4,43,Male,Japan,2022-09-26
+1270,Dining Table,Sports,107,86,Yes,44,4,43,Female,Russia,2022-09-27
+1271,Treadmill,Clothing,308,-5,Yes,17,1,31,Female,Mexico,2022-09-28
+1272,Rug,Home & Garden,391,80,Yes,1,4,24,Male,Italy,2022-09-29
+1273,Foundation,Home & Garden,375,12,Yes,12,3,50,Male,Brazil,2022-09-30
+1274,Basketball,Sports,179,48,No,44,2,43,Female,India,2022-10-01
+1275,TV,Sports,264,80,No,14,1,62,Male,Spain,2022-10-02
+1276,Sweater,Beauty,221,87,No,19,4,37,Female,Japan,2022-10-03
+1277,Coffee Maker,Beauty,307,35,No,28,4,20,Female,Canada,2022-10-04
+1278,Moisturizer,Clothing,151,27,No,41,3,21,Male,Brazil,2022-10-05
+1279,Hair Dryer,Clothing,258,3,Yes,28,4,43,Male,Japan,2022-10-06
+1280,Laptop,Electronics,,89,Yes,2,,28,Male,Italy,2022-10-07
+1281,Smartphone,Beauty,403,61,Yes,18,2,19,Female,Mexico,2022-10-08
+1282,Moisturizer,Home & Garden,335,51,Yes,2,4,31,Female,Germany,2022-10-09
+1283,Jeans,Beauty,165,24,No,13,5,61,Male,Russia,2022-10-10
+1284,Smartwatch,Home & Garden,313,8,No,39,5,47,Female,China,2022-10-11
+1285,Tennis Racket,Sports,199,19,No,3,4,29,Female,Russia,2022-10-12
+1286,Dumbbells,Beauty,349,67,Yes,10,4,43,Female,Canada,2022-10-13
+1287,Printer,Sports,491,73,No,30,1,61,Male,United States,2022-10-14
+1288,Lipstick,Clothing,85,14,Yes,42,3,50,Female,Spain,2022-10-15
+1289,Basketball,Clothing,382,29,No,31,1,30,Male,United States,2022-10-16
+1290,Jacket,Electronics,336,77,No,26,,31,Male,Australia,2022-10-17
+1291,Moisturizer,Beauty,352,3,Yes,29,2,41,Female,Brazil,2022-10-18
+1292,Sweater,Sports,360,15,Yes,42,2,51,Male,China,2022-10-19
+1293,Tablet,Home & Garden,257,91,No,1,5,61,Female,South Africa,2022-10-20
+1294,Socks,Clothing,155,76,No,48,,43,Male,United Kingdom,2022-10-21
+1295,Refrigerator,Clothing,495,11,Yes,8,5,38,Male,Japan,2022-10-22
+1296,Yoga Mat,Home & Garden,207,37,No,27,,45,Female,Canada,2022-10-23
+1297,Refrigerator,Sports,170,72,No,30,1,53,Male,Germany,2022-10-24
+1298,T-Shirt,Sports,104,99,Yes,33,3,57,Male,Brazil,2022-10-25
+1299,Hair Dryer,Beauty,449,40,No,14,2,19,Male,Germany,2022-10-26
+1300,Gaming Console,Beauty,61,-8,Yes,47,1,59,Female,United Kingdom,2022-10-27
+1301,Football,Electronics,194,31,No,24,4,26,Female,Spain,2022-10-28
+1302,Golf Clubs,Clothing,449,8,Yes,35,,40,Male,Australia,2022-10-29
+1303,Skateboard,Beauty,445,62,No,7,3,32,Male,South Africa,2022-10-30
+1304,Socks,Sports,185,17,Yes,8,4,30,Male,United Kingdom,2022-10-31
+1305,Basketball,Home & Garden,52,73,No,36,4,40,Female,Russia,2022-11-01
+1306,Moisturizer,Sports,193,34,Yes,47,3,34,Female,Mexico,2022-11-02
+1307,Microwave,Clothing,79,60,No,44,4,19,Male,Russia,2022-11-03
+1308,Basketball,Sports,286,67,No,38,3,37,Female,Mexico,2022-11-04
+1309,Microwave,Electronics,328,52,No,31,2,37,Female,India,2022-11-05
+1310,Curtains,Clothing,397,62,No,16,5,63,Female,France,2022-11-06
+1311,Shorts,Home & Garden,164,8,No,34,2,20,Female,Canada,2022-11-07
+1312,Perfume,Electronics,153,36,No,36,,29,Male,Spain,2022-11-08
+1313,Shorts,Clothing,167,3,No,18,2,57,Female,France,2022-11-09
+1314,Laptop,Home & Garden,54,27,No,43,4,19,Female,United Kingdom,2022-11-10
+1315,Basketball,Electronics,409,42,No,28,4,53,Male,South Africa,2022-11-11
+1316,Sweater,Electronics,297,50,Yes,6,2,31,Male,Mexico,2022-11-12
+1317,Lipstick,Clothing,413,25,Yes,27,1,33,Female,Mexico,2022-11-13
+1318,Football,Beauty,370,29,No,8,4,36,Female,Russia,2022-11-14
+1319,Yoga Mat,Electronics,170,70,Yes,27,5,51,Male,Australia,2022-11-15
+1320,Headphones,Electronics,335,19,No,5,5,61,Male,Australia,2022-11-16
+1321,Yoga Mat,Home & Garden,198,-2,No,28,4,63,Male,Mexico,2022-11-17
+1322,Shoes,Sports,133,53,Yes,16,5,23,Female,Italy,2022-11-18
+1323,Sofa,Clothing,455,22,No,15,4,30,Female,United States,2022-11-19
+1324,Moisturizer,Clothing,280,41,No,22,5,53,Male,Russia,2022-11-20
+1325,Socks,Beauty,337,78,Yes,30,4,39,Female,Brazil,2022-11-21
+1326,Gaming Console,Beauty,210,3,Yes,2,4,35,Male,South Africa,2022-11-22
+1327,TV,Clothing,321,64,No,20,5,29,Female,United States,2022-11-23
+1328,Tablet,Beauty,87,42,Yes,25,3,47,Male,Canada,2022-11-24
+1329,Skirt,Home & Garden,275,88,Yes,35,5,57,Male,Mexico,2022-11-25
+1330,Yoga Mat,Clothing,191,94,No,41,4,24,Female,Canada,2022-11-26
+1331,Moisturizer,Beauty,341,48,Yes,36,2,49,Female,Canada,2022-11-27
+1332,Jeans,Clothing,200,67,Yes,21,1,36,Female,Germany,2022-11-28
+1333,Bed,Sports,163,83,No,41,3,23,Female,United States,2022-11-29
+1334,Bed,Electronics,286,30,Yes,11,4,37,Female,Germany,2022-11-30
+1335,Perfume,Clothing,115,57,Yes,41,5,44,Female,France,2022-12-01
+1336,Rug,Electronics,410,57,No,12,2,60,Male,Russia,2022-12-02
+1337,Golf Clubs,Beauty,390,81,No,10,5,54,Female,Brazil,2022-12-03
+1338,Golf Clubs,Electronics,307,-3,No,15,5,24,Male,United Kingdom,2022-12-04
+1339,Blush,Clothing,298,-9,Yes,7,2,22,Male,Russia,2022-12-05
+1340,Gaming Console,Sports,498,94,No,39,5,28,Female,South Africa,2022-12-06
+1341,Vacuum Cleaner,Beauty,380,99,No,39,,32,Male,Japan,2022-12-07
+1342,Vacuum Cleaner,Clothing,372,75,Yes,44,5,20,Male,United States,2022-12-08
+1343,Exercise Bike,Beauty,229,30,No,1,5,22,Female,Russia,2022-12-09
+1344,Sofa,Home & Garden,239,44,No,29,,40,Female,Japan,2022-12-10
+1345,Rug,Electronics,456,5,No,29,4,54,Female,Italy,2022-12-11
+1346,Yoga Mat,Home & Garden,203,82,No,11,,26,Male,Russia,2022-12-12
+1347,Air Purifier,Clothing,245,51,Yes,9,5,32,Female,Australia,2022-12-13
+1348,Facial Cleanser,Sports,360,37,No,43,,20,Female,United States,2022-12-14
+1349,Yoga Mat,Beauty,311,19,No,10,4,46,Female,France,2022-12-15
+1350,Smartwatch,Electronics,468,1,Yes,14,3,23,Female,Spain,2022-12-16
+1351,Moisturizer,Beauty,455,24,No,15,5,34,Male,United States,2022-12-17
+1352,Jacket,Clothing,476,0,Yes,16,1,43,Female,Spain,2022-12-18
+1353,Headphones,Beauty,192,53,Yes,25,,38,Male,Germany,2022-12-19
+1354,Basketball,Electronics,391,99,Yes,1,3,25,Female,Brazil,2022-12-20
+1355,Hair Dryer,Clothing,365,39,No,49,2,38,Male,United Kingdom,2022-12-21
+1356,Skirt,Beauty,150,74,Yes,11,4,28,Male,China,2022-12-22
+1357,Eyeshadow Palette,Sports,293,10,Yes,25,1,55,Male,United Kingdom,2022-12-23
+1358,Air Purifier,Clothing,61,58,Yes,22,4,25,Female,Russia,2022-12-24
+1359,Rug,Clothing,288,37,No,17,,59,Male,Mexico,2022-12-25
+1360,Curtains,Sports,98,9,No,31,5,41,Female,South Africa,2022-12-26
+1361,Perfume,Home & Garden,91,90,No,48,,52,Female,South Africa,2022-12-27
+1362,Camera,Electronics,215,56,No,37,2,31,Female,United Kingdom,2022-12-28
+1363,Basketball,Home & Garden,131,33,No,46,5,31,Female,Australia,2022-12-29
+1364,Lipstick,Beauty,478,22,No,2,,27,Female,France,2022-12-30
+1365,Tennis Racket,Sports,340,62,No,37,,29,Male,Spain,2022-12-31
+1366,Refrigerator,Home & Garden,207,50,Yes,2,4,55,Female,Japan,2023-01-01
+1367,Curtains,Clothing,265,-2,Yes,29,3,61,Male,South Africa,2023-01-02
+1368,Hair Dryer,Beauty,207,57,Yes,0,5,63,Male,Russia,2023-01-03
+1369,Perfume,Beauty,183,24,Yes,29,4,51,Male,France,2023-01-04
+1370,Treadmill,Home & Garden,,70,No,44,3,58,Male,China,2023-01-05
+1371,Basketball,Home & Garden,385,87,Yes,31,3,27,Male,Australia,2023-01-06
+1372,Yoga Mat,Sports,56,77,Yes,27,5,34,Male,Brazil,2023-01-07
+1373,Sofa,Electronics,485,85,Yes,20,1,34,Male,Russia,2023-01-08
+1374,Dumbbells,Home & Garden,63,54,Yes,45,,20,Female,Mexico,2023-01-09
+1375,Dining Table,Home & Garden,122,-3,No,12,4,48,Male,United Kingdom,2023-01-10
+1376,Yoga Mat,Clothing,448,34,No,26,2,18,Female,Germany,2023-01-11
+1377,Tablet,Beauty,454,76,No,35,1,29,Male,Australia,2023-01-12
+1378,Shorts,Electronics,212,36,Yes,6,5,56,Male,South Africa,2023-01-13
+1379,Microwave,Clothing,115,29,No,21,5,21,Male,Canada,2023-01-14
+1380,Foundation,Sports,396,65,Yes,9,5,59,Male,South Africa,2023-01-15
+1381,Treadmill,Sports,179,43,No,38,5,30,Female,United States,2023-01-16
+1382,Tablet,Home & Garden,468,65,No,14,4,51,Female,France,2023-01-17
+1383,Skateboard,Home & Garden,255,35,No,14,5,59,Female,Italy,2023-01-18
+1384,Perfume,Sports,325,36,No,3,3,38,Male,Australia,2023-01-19
+1385,Refrigerator,Home & Garden,305,4,No,31,4,39,Male,Canada,2023-01-20
+1386,Nail Polish,Electronics,315,94,Yes,22,,21,Male,South Africa,2023-01-21
+1387,Dumbbells,Home & Garden,74,8,No,5,3,35,Female,Spain,2023-01-22
+1388,Facial Cleanser,Beauty,499,15,Yes,23,3,22,Male,Japan,2023-01-23
+1389,Bed,Home & Garden,330,41,Yes,19,4,36,Female,China,2023-01-24
+1390,Dining Table,Clothing,302,82,Yes,36,2,19,Female,China,2023-01-25
+1391,Laptop,Electronics,359,11,Yes,19,1,29,Male,United Kingdom,2023-01-26
+1392,Vacuum Cleaner,Clothing,,93,Yes,11,5,34,Male,United Kingdom,2023-01-27
+1393,Foundation,Clothing,213,10,No,32,,27,Female,Australia,2023-01-28
+1394,Laptop,Beauty,144,40,No,27,4,51,Female,Australia,2023-01-29
+1395,Coffee Maker,Electronics,319,27,No,7,1,23,Female,Brazil,2023-01-30
+1396,Skirt,Electronics,370,9,No,0,1,25,Male,United States,2023-01-31
+1397,Skateboard,Electronics,159,18,Yes,36,5,28,Male,India,2023-02-01
+1398,Yoga Mat,Electronics,385,40,No,21,4,29,Male,Japan,2023-02-02
+1399,Printer,Electronics,359,-7,No,5,3,26,Male,United Kingdom,2023-02-03
+1400,Mascara,Beauty,287,44,Yes,20,4,19,Male,India,2023-02-04
+1401,Moisturizer,Home & Garden,430,60,Yes,31,3,25,Male,India,2023-02-05
+1402,Badminton Set,Clothing,485,81,No,34,4,28,Female,Russia,2023-02-06
+1403,Curtains,Electronics,436,17,No,14,5,53,Female,Mexico,2023-02-07
+1404,Foundation,Home & Garden,474,-7,Yes,4,4,27,Female,United States,2023-02-08
+1405,Coffee Maker,Home & Garden,439,11,No,45,4,38,Male,Germany,2023-02-09
+1406,Basketball,Clothing,74,65,No,49,3,37,Female,Germany,2023-02-10
+1407,Nail Polish,Beauty,190,34,No,47,5,25,Male,Spain,2023-02-11
+1408,Microwave,Sports,166,56,No,5,4,53,Male,United Kingdom,2023-02-12
+1409,Refrigerator,Sports,441,75,Yes,24,2,46,Female,South Africa,2023-02-13
+1410,Dress,Home & Garden,454,97,Yes,45,4,59,Male,Canada,2023-02-14
+1411,TV,Clothing,74,55,Yes,39,3,29,Female,South Africa,2023-02-15
+1412,Football,Sports,128,77,No,28,,31,Female,Italy,2023-02-16
+1413,Blush,Home & Garden,117,23,No,6,4,38,Male,United States,2023-02-17
+1414,Socks,Beauty,222,80,No,39,,39,Female,United States,2023-02-18
+1415,Smartphone,Sports,493,44,No,12,1,38,Female,Mexico,2023-02-19
+1416,Gaming Console,Home & Garden,61,94,No,37,5,61,Female,France,2023-02-20
+1417,Perfume,Home & Garden,337,-10,Yes,17,,47,Female,Italy,2023-02-21
+1418,Sweater,Electronics,,61,No,1,5,56,Male,India,2023-02-22
+1419,Shoes,Beauty,145,76,No,7,3,37,Female,France,2023-02-23
+1420,Jeans,Electronics,141,27,Yes,10,4,41,Female,Spain,2023-02-24
+1421,Dining Table,Clothing,190,-5,No,32,5,40,Female,South Africa,2023-02-25
+1422,Hoodie,Electronics,80,75,Yes,37,3,24,Male,Spain,2023-02-26
+1423,Air Purifier,Electronics,383,14,Yes,47,3,26,Female,South Africa,2023-02-27
+1424,Exercise Bike,Sports,69,71,Yes,26,4,18,Male,Spain,2023-02-28
+1425,Laptop,Home & Garden,195,6,Yes,19,4,43,Female,India,2023-03-01
+1426,Dumbbells,Beauty,,50,Yes,11,3,55,Female,Spain,2023-03-02
+1427,Dining Table,Electronics,496,1,No,42,3,55,Female,Germany,2023-03-03
+1428,Bed,Beauty,439,-5,Yes,30,,61,Male,United Kingdom,2023-03-04
+1429,Microwave,Electronics,209,79,Yes,26,5,39,Male,Japan,2023-03-05
+1430,Bed,Clothing,398,16,No,31,4,61,Male,Germany,2023-03-06
+1431,Bed,Electronics,92,-3,No,9,5,27,Male,Russia,2023-03-07
+1432,Hair Dryer,Sports,303,72,Yes,2,,23,Male,United States,2023-03-08
+1433,Foundation,Home & Garden,179,95,No,44,4,34,Male,Japan,2023-03-09
+1434,Camera,Clothing,109,54,No,26,1,55,Female,Australia,2023-03-10
+1435,Hoodie,Electronics,200,46,Yes,34,,41,Male,Japan,2023-03-11
+1436,Mascara,Beauty,336,82,Yes,30,3,27,Female,Japan,2023-03-12
+1437,Tennis Racket,Clothing,54,98,No,14,,25,Male,Germany,2023-03-13
+1438,Yoga Mat,Clothing,467,88,Yes,15,4,38,Male,United States,2023-03-14
+1439,Gaming Console,Electronics,315,29,Yes,12,3,23,Male,Japan,2023-03-15
+1440,Eyeshadow Palette,Clothing,394,3,No,48,3,38,Female,Mexico,2023-03-16
+1441,Eyeshadow Palette,Beauty,179,24,Yes,34,4,56,Male,Mexico,2023-03-17
+1442,Smartwatch,Clothing,431,37,Yes,10,4,41,Male,Russia,2023-03-18
+1443,Badminton Set,Beauty,316,98,Yes,20,2,50,Female,Germany,2023-03-19
+1444,Headphones,Electronics,227,73,Yes,10,,35,Female,Germany,2023-03-20
+1445,Camera,Home & Garden,302,45,Yes,29,4,45,Female,Japan,2023-03-21
+1446,Blush,Clothing,464,38,No,47,2,49,Female,India,2023-03-22
+1447,Dumbbells,Home & Garden,105,2,No,34,5,29,Male,United States,2023-03-23
+1448,Rug,Beauty,132,50,Yes,21,1,59,Female,South Africa,2023-03-24
+1449,Facial Cleanser,Clothing,442,91,No,37,,44,Male,South Africa,2023-03-25
+1450,Basketball,Sports,148,38,Yes,30,,27,Male,China,2023-03-26
+1451,Skateboard,Home & Garden,198,35,Yes,13,5,63,Female,Russia,2023-03-27
+1452,Sweater,Clothing,378,51,Yes,23,5,59,Male,South Africa,2023-03-28
+1453,Dress,Home & Garden,205,-3,Yes,49,3,49,Female,Japan,2023-03-29
+1454,Nail Polish,Clothing,239,32,Yes,48,,59,Male,South Africa,2023-03-30
+1455,Foundation,Electronics,420,9,No,31,4,43,Female,France,2023-03-31
+1456,Rug,Home & Garden,312,86,No,35,5,42,Female,France,2023-04-01
+1457,Jacket,Sports,129,79,Yes,31,,28,Female,Australia,2023-04-02
+1458,Skirt,Sports,449,28,No,14,,40,Female,United States,2023-04-03
+1459,Jacket,Beauty,301,74,Yes,42,5,51,Female,Russia,2023-04-04
+1460,Air Purifier,Clothing,146,38,No,34,3,57,Female,Germany,2023-04-05
+1461,Coffee Maker,Home & Garden,309,53,Yes,2,,40,Male,Brazil,2023-04-06
+1462,Tennis Racket,Beauty,309,51,No,15,4,46,Male,United Kingdom,2023-04-07
+1463,Coffee Maker,Home & Garden,152,95,Yes,4,,48,Male,Canada,2023-04-08
+1464,Dining Table,Clothing,89,96,Yes,20,4,24,Female,Italy,2023-04-09
+1465,Printer,Sports,322,43,No,9,3,57,Male,Brazil,2023-04-10
+1466,Jeans,Electronics,150,94,No,18,3,50,Female,South Africa,2023-04-11
+1467,Smartphone,Sports,408,-2,Yes,24,4,38,Male,Russia,2023-04-12
+1468,Smartphone,Beauty,429,77,No,3,5,19,Male,United States,2023-04-13
+1469,Facial Cleanser,Electronics,,26,Yes,28,3,35,Female,Spain,2023-04-14
+1470,Exercise Bike,Beauty,270,38,No,18,4,64,Male,United States,2023-04-15
+1471,Dumbbells,Clothing,357,30,No,42,3,50,Male,South Africa,2023-04-16
+1472,Moisturizer,Electronics,469,6,Yes,1,5,54,Male,Japan,2023-04-17
+1473,Microwave,Beauty,173,77,No,9,4,51,Female,Japan,2023-04-18
+1474,Skateboard,Clothing,471,10,No,42,,37,Male,Brazil,2023-04-19
+1475,Blush,Sports,280,40,Yes,24,2,52,Female,Germany,2023-04-20
+1476,Smartphone,Clothing,227,48,No,19,,35,Male,Italy,2023-04-21
+1477,Sweater,Home & Garden,112,28,Yes,47,4,63,Male,Australia,2023-04-22
+1478,Badminton Set,Clothing,165,44,Yes,18,2,41,Male,Japan,2023-04-23
+1479,Smartwatch,Clothing,240,30,Yes,22,2,25,Male,Canada,2023-04-24
+1480,Bed,Home & Garden,111,28,Yes,23,,47,Female,Russia,2023-04-25
+1481,Curtains,Beauty,305,2,Yes,10,5,61,Male,Canada,2023-04-26
+1482,Tablet,Beauty,56,53,No,45,4,27,Female,Australia,2023-04-27
+1483,Jeans,Clothing,204,0,Yes,33,,40,Female,India,2023-04-28
+1484,Coffee Maker,Home & Garden,141,99,Yes,27,1,28,Male,India,2023-04-29
+1485,Sweater,Home & Garden,63,8,No,4,4,19,Male,United States,2023-04-30
+1486,Tennis Racket,Sports,278,0,No,4,4,43,Female,Spain,2023-05-01
+1487,Bed,Beauty,135,66,No,20,4,53,Female,Japan,2023-05-02
+1488,Curtains,Electronics,182,35,Yes,11,3,50,Male,France,2023-05-03
+1489,Shoes,Beauty,232,34,Yes,49,4,64,Male,Mexico,2023-05-04
+1490,Air Purifier,Beauty,435,-10,Yes,3,4,30,Male,Mexico,2023-05-05
+1491,Smartwatch,Sports,,29,No,48,5,57,Male,Brazil,2023-05-06
+1492,Facial Cleanser,Electronics,268,97,Yes,41,,42,Male,China,2023-05-07
+1493,Hair Dryer,Sports,454,8,No,19,2,21,Female,Australia,2023-05-08
+1494,Rug,Electronics,295,65,Yes,37,2,59,Male,United States,2023-05-09
+1495,Perfume,Clothing,279,61,No,24,3,36,Male,France,2023-05-10
+1496,Smartwatch,Electronics,,61,Yes,13,4,35,Female,Mexico,2023-05-11
+1497,Jeans,Sports,198,50,Yes,10,2,54,Male,Japan,2023-05-12
+1498,Sweater,Beauty,187,98,Yes,31,5,47,Male,South Africa,2023-05-13
+1499,Coffee Maker,Electronics,363,1,No,10,3,36,Female,France,2023-05-14
+1500,Coffee Maker,Electronics,425,50,No,17,2,40,Male,Spain,2023-05-15
+1501,Moisturizer,Home & Garden,472,22,Yes,26,4,33,Female,France,2023-05-16
+1502,Sofa,Beauty,438,34,Yes,17,1,18,Male,South Africa,2023-05-17
+1503,Badminton Set,Clothing,114,79,Yes,22,4,29,Male,Mexico,2023-05-18
+1504,Football,Sports,62,92,No,10,4,41,Male,Spain,2023-05-19
+1505,Yoga Mat,Clothing,262,81,Yes,20,3,51,Female,Australia,2023-05-20
+1506,Rug,Beauty,291,58,Yes,43,1,25,Female,United States,2023-05-21
+1507,Tennis Racket,Electronics,262,-3,Yes,4,3,35,Female,Germany,2023-05-22
+1508,Dining Table,Electronics,230,14,Yes,22,1,22,Female,Canada,2023-05-23
+1509,Wireless Earbuds,Beauty,387,80,No,40,2,43,Male,Brazil,2023-05-24
+1510,Smartwatch,Electronics,222,35,No,24,3,47,Female,United States,2023-05-25
+1511,Football,Electronics,209,76,Yes,40,3,30,Female,South Africa,2023-05-26
+1512,Exercise Bike,Electronics,213,19,Yes,9,4,36,Female,China,2023-05-27
+1513,Treadmill,Sports,237,98,No,21,4,46,Male,France,2023-05-28
+1514,Wireless Earbuds,Sports,444,36,No,18,4,20,Male,Germany,2023-05-29
+1515,Jacket,Home & Garden,240,76,Yes,0,,43,Female,South Africa,2023-05-30
+1516,Dumbbells,Clothing,454,38,No,6,2,57,Female,Australia,2023-05-31
+1517,Smartphone,Beauty,357,36,No,3,5,29,Male,United Kingdom,2023-06-01
+1518,Smartwatch,Beauty,305,73,Yes,0,4,19,Female,South Africa,2023-06-02
+1519,Blush,Beauty,232,71,No,14,5,28,Female,Mexico,2023-06-03
+1520,Headphones,Home & Garden,166,7,No,39,3,61,Female,Mexico,2023-06-04
+1521,Sweater,Sports,331,55,Yes,11,4,45,Female,Brazil,2023-06-05
+1522,Refrigerator,Home & Garden,245,57,Yes,21,4,35,Male,Brazil,2023-06-06
+1523,Sweater,Beauty,83,83,No,21,3,30,Male,Canada,2023-06-07
+1524,Laptop,Clothing,101,22,Yes,49,4,54,Male,United Kingdom,2023-06-08
+1525,Hair Dryer,Electronics,161,25,No,46,4,39,Female,South Africa,2023-06-09
+1526,Air Purifier,Sports,301,71,Yes,16,3,29,Female,Russia,2023-06-10
+1527,Dumbbells,Sports,131,90,No,28,3,19,Male,Japan,2023-06-11
+1528,Vacuum Cleaner,Home & Garden,281,8,Yes,45,5,54,Male,United Kingdom,2023-06-12
+1529,Socks,Sports,276,17,No,13,,24,Male,France,2023-06-13
+1530,Refrigerator,Beauty,282,29,No,49,3,43,Female,France,2023-06-14
+1531,Jeans,Beauty,270,73,No,19,3,43,Male,France,2023-06-15
+1532,Nail Polish,Home & Garden,485,86,Yes,49,2,41,Female,Italy,2023-06-16
+1533,Basketball,Beauty,462,65,Yes,47,4,29,Female,France,2023-06-17
+1534,Yoga Mat,Clothing,471,4,No,32,3,33,Male,Spain,2023-06-18
+1535,Yoga Mat,Home & Garden,91,30,No,42,,40,Male,United States,2023-06-19
+1536,Mascara,Clothing,70,28,Yes,14,3,57,Female,Brazil,2023-06-20
+1537,Tennis Racket,Electronics,91,-9,Yes,11,3,26,Male,United Kingdom,2023-06-21
+1538,Jeans,Clothing,446,52,Yes,39,4,49,Male,Brazil,2023-06-22
+1539,Tablet,Electronics,162,18,Yes,19,5,32,Female,China,2023-06-23
+1540,Smartphone,Electronics,154,94,Yes,29,4,54,Female,United Kingdom,2023-06-24
+1541,Yoga Mat,Clothing,241,63,Yes,37,4,30,Female,United States,2023-06-25
+1542,Skateboard,Home & Garden,66,55,No,2,,22,Female,China,2023-06-26
+1543,Wireless Earbuds,Beauty,169,40,Yes,27,1,28,Female,Italy,2023-06-27
+1544,Mascara,Beauty,442,64,No,25,5,27,Male,Brazil,2023-06-28
+1545,Eyeshadow Palette,Electronics,474,66,Yes,29,2,30,Female,China,2023-06-29
+1546,Curtains,Electronics,178,-1,Yes,12,5,58,Female,Canada,2023-06-30
+1547,Dress,Home & Garden,179,3,No,12,4,63,Female,Spain,2023-07-01
+1548,Jeans,Sports,109,71,No,1,3,32,Male,South Africa,2023-07-02
+1549,Treadmill,Clothing,97,40,Yes,36,5,59,Female,China,2023-07-03
+1550,Perfume,Electronics,78,62,No,48,1,24,Female,United Kingdom,2023-07-04
+1551,Laptop,Beauty,146,28,No,37,3,57,Female,France,2023-07-05
+1552,Nail Polish,Home & Garden,59,17,No,1,,45,Male,France,2023-07-06
+1553,Basketball,Clothing,291,-8,No,35,3,49,Female,Mexico,2023-07-07
+1554,Dining Table,Home & Garden,363,73,Yes,25,4,52,Female,Russia,2023-07-08
+1555,Skirt,Clothing,493,59,No,10,1,32,Female,Japan,2023-07-09
+1556,Coffee Maker,Clothing,281,16,Yes,7,2,53,Male,Brazil,2023-07-10
+1557,Gaming Console,Electronics,326,-9,Yes,43,2,38,Male,Mexico,2023-07-11
+1558,Curtains,Home & Garden,333,82,Yes,39,2,23,Male,Canada,2023-07-12
+1559,Coffee Maker,Home & Garden,252,27,Yes,42,4,18,Male,United Kingdom,2023-07-13
+1560,Wireless Earbuds,Beauty,296,-8,No,21,5,21,Female,United Kingdom,2023-07-14
+1561,Coffee Maker,Beauty,339,5,No,19,,28,Female,Mexico,2023-07-15
+1562,Exercise Bike,Electronics,313,83,Yes,7,5,61,Male,South Africa,2023-07-16
+1563,Lipstick,Electronics,492,29,Yes,28,2,43,Male,Australia,2023-07-17
+1564,TV,Sports,263,-9,Yes,39,4,54,Female,Russia,2023-07-18
+1565,Headphones,Beauty,249,70,Yes,25,2,40,Female,Mexico,2023-07-19
+1566,Nail Polish,Clothing,482,30,No,29,3,46,Male,Spain,2023-07-20
+1567,Blush,Home & Garden,128,1,Yes,16,4,38,Male,India,2023-07-21
+1568,T-Shirt,Electronics,450,24,No,19,1,62,Male,Brazil,2023-07-22
+1569,Curtains,Home & Garden,493,96,Yes,15,3,62,Male,United Kingdom,2023-07-23
+1570,Football,Home & Garden,392,54,Yes,45,,44,Female,Spain,2023-07-24
+1571,Microwave,Sports,393,44,Yes,42,4,56,Male,Germany,2023-07-25
+1572,Sofa,Beauty,222,34,Yes,6,4,57,Male,United Kingdom,2023-07-26
+1573,Football,Electronics,118,68,No,15,1,30,Female,Australia,2023-07-27
+1574,Wireless Earbuds,Home & Garden,465,79,No,44,3,40,Female,China,2023-07-28
+1575,Tennis Racket,Electronics,477,90,No,46,5,33,Female,United States,2023-07-29
+1576,Printer,Clothing,498,74,Yes,47,2,47,Female,Russia,2023-07-30
+1577,Refrigerator,Sports,136,51,Yes,26,4,21,Female,United States,2023-07-31
+1578,Basketball,Clothing,150,38,No,22,1,57,Male,South Africa,2023-08-01
+1579,Hair Dryer,Electronics,57,84,No,23,4,33,Male,Germany,2023-08-02
+1580,Basketball,Electronics,382,14,Yes,8,,48,Male,Germany,2023-08-03
+1581,Moisturizer,Beauty,249,12,Yes,34,5,59,Female,Russia,2023-08-04
+1582,Football,Home & Garden,136,13,No,19,5,42,Male,Russia,2023-08-05
+1583,Shorts,Home & Garden,92,27,Yes,36,5,61,Female,Japan,2023-08-06
+1584,Hair Dryer,Clothing,434,17,Yes,41,3,29,Male,South Africa,2023-08-07
+1585,Badminton Set,Sports,158,10,No,16,5,43,Male,Italy,2023-08-08
+1586,Dumbbells,Home & Garden,484,43,Yes,46,4,54,Female,Russia,2023-08-09
+1587,Refrigerator,Beauty,457,96,No,30,3,50,Female,Spain,2023-08-10
+1588,Dining Table,Clothing,201,7,Yes,7,4,45,Male,United States,2023-08-11
+1589,Dumbbells,Clothing,,25,No,14,1,26,Male,China,2023-08-12
+1590,Tennis Racket,Beauty,182,88,Yes,30,2,29,Male,Mexico,2023-08-13
+1591,Jeans,Sports,197,34,No,29,5,22,Male,United States,2023-08-14
+1592,Hair Dryer,Beauty,326,62,No,45,3,45,Male,Italy,2023-08-15
+1593,Dress,Sports,281,42,No,19,4,52,Female,India,2023-08-16
+1594,Dining Table,Beauty,363,91,No,38,3,22,Female,Brazil,2023-08-17
+1595,Microwave,Beauty,464,19,Yes,11,5,51,Female,United States,2023-08-18
+1596,Basketball,Electronics,415,49,Yes,48,,63,Female,South Africa,2023-08-19
+1597,Lipstick,Clothing,277,97,No,16,5,51,Male,France,2023-08-20
+1598,Rug,Beauty,188,87,Yes,41,3,30,Male,Japan,2023-08-21
+1599,Skirt,Beauty,485,21,Yes,29,2,56,Female,Australia,2023-08-22
+1600,Hair Dryer,Home & Garden,448,56,Yes,28,4,59,Male,Germany,2023-08-23
+1601,Socks,Clothing,260,56,Yes,18,1,62,Female,South Africa,2023-08-24
+1602,Moisturizer,Home & Garden,440,17,Yes,45,1,31,Male,India,2023-08-25
+1603,Microwave,Clothing,77,33,No,10,4,28,Male,Mexico,2023-08-26
+1604,Bed,Home & Garden,100,68,No,33,4,59,Male,Germany,2023-08-27
+1605,Dress,Beauty,491,30,No,49,,55,Female,South Africa,2023-08-28
+1606,Jacket,Beauty,310,52,No,6,3,21,Female,Mexico,2023-08-29
+1607,Hair Dryer,Electronics,310,12,Yes,43,3,50,Female,Japan,2023-08-30
+1608,Football,Home & Garden,399,93,Yes,33,2,24,Female,Italy,2023-08-31
+1609,Jeans,Sports,401,64,No,19,,58,Male,United Kingdom,2023-09-01
+1610,Lipstick,Electronics,57,37,Yes,49,5,25,Male,Russia,2023-09-02
+1611,Jacket,Home & Garden,369,21,Yes,37,5,54,Male,India,2023-09-03
+1612,Jeans,Home & Garden,187,46,No,23,,27,Male,Russia,2023-09-04
+1613,Printer,Electronics,87,89,Yes,9,4,60,Female,Canada,2023-09-05
+1614,TV,Beauty,160,22,No,31,4,32,Male,India,2023-09-06
+1615,Air Purifier,Home & Garden,417,13,No,14,3,55,Male,Spain,2023-09-07
+1616,Shoes,Beauty,269,28,Yes,36,4,32,Male,Japan,2023-09-08
+1617,Treadmill,Electronics,386,23,Yes,19,4,22,Female,Australia,2023-09-09
+1618,Jacket,Beauty,272,45,No,2,4,46,Female,India,2023-09-10
+1619,Facial Cleanser,Clothing,185,17,No,36,,36,Female,Spain,2023-09-11
+1620,Sweater,Sports,305,26,Yes,39,,27,Male,Japan,2023-09-12
+1621,Smartwatch,Home & Garden,409,-4,No,7,5,29,Female,China,2023-09-13
+1622,Basketball,Sports,458,57,No,39,5,21,Male,Brazil,2023-09-14
+1623,Jeans,Beauty,378,26,No,43,4,48,Male,United States,2023-09-15
+1624,Microwave,Home & Garden,499,45,Yes,22,2,35,Male,China,2023-09-16
+1625,Sofa,Beauty,483,54,No,39,1,33,Female,Japan,2023-09-17
+1626,Football,Clothing,98,54,Yes,10,,57,Female,France,2023-09-18
+1627,Dining Table,Electronics,341,36,No,45,5,53,Male,United Kingdom,2023-09-19
+1628,Sweater,Home & Garden,431,9,Yes,7,1,42,Male,United States,2023-09-20
+1629,Badminton Set,Clothing,373,8,No,28,,40,Female,France,2023-09-21
+1630,Blush,Clothing,127,18,Yes,29,1,29,Female,Mexico,2023-09-22
+1631,Foundation,Home & Garden,154,63,Yes,9,3,51,Female,Australia,2023-09-23
+1632,Badminton Set,Beauty,218,49,Yes,38,4,53,Male,Germany,2023-09-24
+1633,Shoes,Clothing,266,7,No,27,2,54,Male,Canada,2023-09-25
+1634,Treadmill,Sports,427,81,No,48,1,20,Male,United States,2023-09-26
+1635,Smartwatch,Clothing,168,24,No,35,3,26,Female,China,2023-09-27
+1636,Basketball,Beauty,239,32,Yes,12,5,35,Female,United Kingdom,2023-09-28
+1637,Dining Table,Beauty,304,84,No,31,4,60,Female,South Africa,2023-09-29
+1638,Curtains,Sports,419,80,Yes,35,4,52,Male,Spain,2023-09-30
+1639,Mascara,Clothing,315,0,No,36,4,51,Male,France,2023-10-01
+1640,T-Shirt,Beauty,198,38,Yes,25,1,58,Female,Spain,2023-10-02
+1641,Shorts,Home & Garden,213,27,Yes,21,,31,Male,Japan,2023-10-03
+1642,Facial Cleanser,Electronics,189,53,Yes,3,1,21,Female,United States,2023-10-04
+1643,Jeans,Electronics,396,58,No,30,,46,Male,Spain,2023-10-05
+1644,Printer,Electronics,307,-3,No,17,4,58,Female,Germany,2023-10-06
+1645,Wireless Earbuds,Clothing,423,23,No,37,,62,Male,Russia,2023-10-07
+1646,Eyeshadow Palette,Sports,318,37,Yes,23,2,32,Male,Japan,2023-10-08
+1647,Skirt,Beauty,230,45,Yes,22,4,45,Female,France,2023-10-09
+1648,Golf Clubs,Home & Garden,209,65,No,21,2,59,Female,Russia,2023-10-10
+1649,TV,Home & Garden,400,91,No,1,1,33,Female,United Kingdom,2023-10-11
+1650,Perfume,Clothing,449,54,No,30,4,29,Female,India,2023-10-12
+1651,Dress,Electronics,337,20,Yes,10,3,22,Female,Spain,2023-10-13
+1652,Skateboard,Clothing,337,-7,Yes,27,4,51,Male,Germany,2023-10-14
+1653,Foundation,Sports,429,98,Yes,45,2,59,Female,Japan,2023-10-15
+1654,Printer,Sports,275,39,Yes,31,3,18,Female,Germany,2023-10-16
+1655,Nail Polish,Beauty,60,58,Yes,4,5,56,Female,Australia,2023-10-17
+1656,Vacuum Cleaner,Beauty,59,19,No,37,4,49,Male,Russia,2023-10-18
+1657,Laptop,Sports,320,77,Yes,9,4,43,Female,South Africa,2023-10-19
+1658,Smartwatch,Sports,322,48,Yes,39,4,34,Female,Japan,2023-10-20
+1659,Curtains,Sports,473,56,Yes,45,5,44,Female,United States,2023-10-21
+1660,Tennis Racket,Clothing,451,64,Yes,23,3,41,Male,Mexico,2023-10-22
+1661,Golf Clubs,Sports,232,34,Yes,34,4,52,Male,South Africa,2023-10-23
+1662,Jacket,Home & Garden,202,-7,No,43,,63,Female,Mexico,2023-10-24
+1663,Gaming Console,Electronics,364,15,Yes,47,5,59,Male,India,2023-10-25
+1664,Moisturizer,Sports,383,16,Yes,22,4,56,Female,India,2023-10-26
+1665,Blush,Electronics,173,35,Yes,16,4,43,Male,Mexico,2023-10-27
+1666,Smartphone,Clothing,163,96,No,0,5,55,Female,Spain,2023-10-28
+1667,Bed,Electronics,327,53,No,30,4,40,Male,Canada,2023-10-29
+1668,Skirt,Clothing,463,80,No,30,1,39,Female,Germany,2023-10-30
+1669,TV,Home & Garden,262,95,Yes,41,2,21,Female,Italy,2023-10-31
+1670,Microwave,Clothing,221,40,No,41,5,26,Male,China,2023-11-01
+1671,Blush,Clothing,337,39,Yes,33,3,21,Female,India,2023-11-02
+1672,Headphones,Beauty,484,-5,Yes,8,5,24,Female,South Africa,2023-11-03
+1673,Football,Sports,223,48,No,21,3,40,Female,India,2023-11-04
+1674,Camera,Sports,162,4,Yes,12,4,19,Female,Italy,2023-11-05
+1675,Treadmill,Home & Garden,425,19,Yes,24,1,41,Male,Italy,2023-11-06
+1676,Jacket,Home & Garden,454,31,Yes,47,2,57,Female,Australia,2023-11-07
+1677,Eyeshadow Palette,Sports,171,90,No,17,,48,Male,Brazil,2023-11-08
+1678,Badminton Set,Beauty,81,26,Yes,11,5,64,Male,Australia,2023-11-09
+1679,Vacuum Cleaner,Sports,271,31,Yes,39,4,48,Male,Australia,2023-11-10
+1680,Wireless Earbuds,Beauty,168,90,No,16,4,64,Male,Brazil,2023-11-11
+1681,Coffee Maker,Home & Garden,88,24,Yes,14,4,57,Female,Germany,2023-11-12
+1682,Jacket,Electronics,317,76,Yes,41,4,60,Female,Japan,2023-11-13
+1683,Badminton Set,Home & Garden,282,-5,No,14,4,51,Male,United Kingdom,2023-11-14
+1684,Tablet,Home & Garden,480,57,Yes,14,1,41,Female,China,2023-11-15
+1685,Blush,Clothing,67,7,Yes,38,4,43,Male,Italy,2023-11-16
+1686,Dress,Clothing,198,62,Yes,12,5,33,Female,India,2023-11-17
+1687,Nail Polish,Clothing,446,18,Yes,16,,64,Female,Canada,2023-11-18
+1688,Air Purifier,Clothing,198,66,Yes,31,1,30,Female,China,2023-11-19
+1689,Socks,Beauty,175,48,No,8,5,32,Male,Mexico,2023-11-20
+1690,Air Purifier,Sports,441,36,No,39,,44,Male,Spain,2023-11-21
+1691,Gaming Console,Electronics,351,6,No,19,4,21,Female,Japan,2023-11-22
+1692,Lipstick,Home & Garden,409,98,No,25,2,33,Male,Brazil,2023-11-23
+1693,Badminton Set,Beauty,287,85,Yes,26,4,47,Male,China,2023-11-24
+1694,Smartphone,Electronics,184,11,Yes,20,3,61,Female,India,2023-11-25
+1695,Tablet,Beauty,200,57,Yes,17,3,47,Male,China,2023-11-26
+1696,Dress,Beauty,285,58,Yes,12,5,53,Female,United Kingdom,2023-11-27
+1697,Air Purifier,Home & Garden,273,26,Yes,15,5,20,Female,Russia,2023-11-28
+1698,Hair Dryer,Sports,252,94,No,8,4,39,Female,South Africa,2023-11-29
+1699,Microwave,Clothing,305,38,No,11,,39,Male,Brazil,2023-11-30
+1700,Yoga Mat,Sports,135,2,Yes,43,3,29,Female,China,2023-12-01
+1701,Golf Clubs,Home & Garden,199,23,Yes,37,3,38,Female,India,2023-12-02
+1702,Camera,Home & Garden,284,98,Yes,18,4,21,Male,India,2023-12-03
+1703,Eyeshadow Palette,Home & Garden,394,75,No,6,2,48,Male,China,2023-12-04
+1704,Blush,Electronics,71,42,Yes,34,3,61,Male,Russia,2023-12-05
+1705,Dumbbells,Sports,397,76,Yes,47,,48,Male,Spain,2023-12-06
+1706,Blush,Sports,334,40,Yes,17,1,40,Female,Germany,2023-12-07
+1707,Facial Cleanser,Beauty,318,-8,No,15,5,37,Male,Canada,2023-12-08
+1708,Sofa,Beauty,307,31,Yes,38,3,32,Male,France,2023-12-09
+1709,Sweater,Beauty,78,87,No,3,4,40,Male,Australia,2023-12-10
+1710,Sofa,Home & Garden,262,21,No,24,1,45,Male,Brazil,2023-12-11
+1711,T-Shirt,Sports,485,98,No,31,4,33,Female,Spain,2023-12-12
+1712,Tennis Racket,Home & Garden,332,40,No,39,3,54,Male,France,2023-12-13
+1713,Football,Electronics,99,74,No,12,5,38,Female,Japan,2023-12-14
+1714,Basketball,Beauty,144,35,No,44,4,32,Male,Japan,2023-12-15
+1715,Jacket,Home & Garden,456,97,Yes,16,2,34,Female,India,2023-12-16
+1716,Socks,Home & Garden,137,10,Yes,48,4,54,Female,Japan,2023-12-17
+1717,Shorts,Electronics,93,33,Yes,36,2,30,Male,Germany,2023-12-18
+1718,Facial Cleanser,Clothing,327,0,No,5,4,36,Female,Canada,2023-12-19
+1719,Lipstick,Sports,220,92,Yes,18,3,47,Male,Italy,2023-12-20
+1720,Hair Dryer,Clothing,470,57,No,12,,62,Female,Spain,2023-12-21
+1721,Shoes,Beauty,238,-10,No,25,1,35,Female,South Africa,2023-12-22
+1722,Hoodie,Home & Garden,402,81,No,13,4,31,Female,Japan,2023-12-23
+1723,Treadmill,Electronics,233,52,Yes,30,2,53,Male,United Kingdom,2023-12-24
+1724,Smartphone,Electronics,52,13,No,3,3,53,Female,Italy,2023-12-25
+1725,Tablet,Sports,240,88,No,38,4,37,Male,Canada,2023-12-26
+1726,Sweater,Clothing,167,2,Yes,7,,36,Female,Mexico,2023-12-27
+1727,Dining Table,Sports,68,87,Yes,24,3,62,Female,Germany,2023-12-28
+1728,T-Shirt,Home & Garden,72,0,No,12,1,61,Female,Russia,2023-12-29
+1729,Jeans,Sports,462,89,No,31,3,24,Female,France,2023-12-30
+1730,Wireless Earbuds,Electronics,79,40,Yes,37,2,61,Female,Canada,2023-12-31
+1731,Dumbbells,Electronics,344,6,Yes,37,2,21,Female,Canada,2024-01-01
+1732,Sweater,Beauty,157,88,Yes,27,4,51,Male,France,2024-01-02
+1733,Gaming Console,Beauty,416,71,No,29,1,19,Male,Germany,2024-01-03
+1734,Golf Clubs,Home & Garden,330,93,Yes,2,1,22,Male,Italy,2024-01-04
+1735,Jeans,Clothing,177,75,Yes,27,5,27,Female,Russia,2024-01-05
+1736,Refrigerator,Sports,278,13,Yes,2,3,49,Male,Japan,2024-01-06
+1737,Air Purifier,Home & Garden,160,8,No,44,2,59,Female,India,2024-01-07
+1738,Gaming Console,Beauty,185,26,Yes,33,3,58,Male,Brazil,2024-01-08
+1739,Air Purifier,Sports,411,92,Yes,15,4,30,Male,Italy,2024-01-09
+1740,Football,Beauty,235,74,Yes,21,3,56,Female,Russia,2024-01-10
+1741,Coffee Maker,Sports,193,-3,Yes,31,4,22,Female,France,2024-01-11
+1742,Gaming Console,Clothing,121,17,Yes,37,2,27,Male,South Africa,2024-01-12
+1743,Nail Polish,Home & Garden,178,-6,No,7,4,27,Male,France,2024-01-13
+1744,Air Purifier,Sports,413,6,No,7,3,55,Male,Russia,2024-01-14
+1745,Air Purifier,Electronics,310,90,No,5,4,44,Male,France,2024-01-15
+1746,Tennis Racket,Electronics,52,25,Yes,13,5,38,Female,France,2024-01-16
+1747,Lipstick,Sports,498,8,No,31,4,25,Male,Brazil,2024-01-17
+1748,Football,Sports,437,53,No,34,3,18,Female,Spain,2024-01-18
+1749,Vacuum Cleaner,Sports,153,80,No,9,3,45,Female,Brazil,2024-01-19
+1750,Skirt,Electronics,273,87,Yes,2,3,56,Male,Japan,2024-01-20
+1751,Printer,Electronics,369,0,Yes,11,2,31,Female,China,2024-01-21
+1752,Yoga Mat,Sports,411,43,No,48,2,38,Male,China,2024-01-22
+1753,Socks,Beauty,403,34,No,30,5,47,Female,United States,2024-01-23
+1754,Dress,Beauty,59,36,Yes,28,3,38,Female,Italy,2024-01-24
+1755,Air Purifier,Clothing,454,1,Yes,4,4,26,Male,Italy,2024-01-25
+1756,Moisturizer,Home & Garden,433,10,No,24,4,34,Female,France,2024-01-26
+1757,Curtains,Beauty,351,0,Yes,40,4,22,Female,France,2024-01-27
+1758,Dress,Electronics,280,92,No,30,1,48,Male,Canada,2024-01-28
+1759,Perfume,Beauty,268,81,Yes,20,5,57,Female,China,2024-01-29
+1760,Basketball,Clothing,460,-6,No,19,2,55,Female,Japan,2024-01-30
+1761,Camera,Clothing,115,70,No,38,5,60,Male,South Africa,2024-01-31
+1762,Shorts,Home & Garden,474,45,Yes,21,5,36,Male,India,2024-02-01
+1763,Smartwatch,Beauty,161,9,No,3,5,53,Female,United States,2024-02-02
+1764,Facial Cleanser,Electronics,62,30,No,12,4,50,Female,Italy,2024-02-03
+1765,Microwave,Electronics,442,35,No,44,1,30,Female,Mexico,2024-02-04
+1766,Laptop,Sports,469,1,Yes,41,3,31,Male,Italy,2024-02-05
+1767,Wireless Earbuds,Electronics,135,59,Yes,49,4,50,Female,United States,2024-02-06
+1768,Rug,Home & Garden,283,6,Yes,48,3,46,Female,South Africa,2024-02-07
+1769,Nail Polish,Home & Garden,139,8,No,19,,60,Female,South Africa,2024-02-08
+1770,Blush,Electronics,363,15,Yes,12,3,53,Female,Russia,2024-02-09
+1771,Smartwatch,Electronics,103,37,No,16,3,61,Female,Mexico,2024-02-10
+1772,Yoga Mat,Sports,61,97,No,35,3,27,Female,Mexico,2024-02-11
+1773,Smartphone,Electronics,,97,Yes,32,3,48,Male,Japan,2024-02-12
+1774,Shorts,Sports,63,41,Yes,0,4,23,Male,Mexico,2024-02-13
+1775,Dumbbells,Sports,170,85,No,14,5,18,Female,India,2024-02-14
+1776,Facial Cleanser,Electronics,467,59,No,12,4,24,Female,Canada,2024-02-15
+1777,Hair Dryer,Clothing,486,44,Yes,16,5,44,Male,Brazil,2024-02-16
+1778,T-Shirt,Clothing,426,89,Yes,23,,38,Male,South Africa,2024-02-17
+1779,Sofa,Sports,,91,Yes,7,5,45,Male,Australia,2024-02-18
+1780,Coffee Maker,Electronics,124,64,No,49,1,33,Female,China,2024-02-19
+1781,Microwave,Clothing,449,22,No,26,5,63,Female,France,2024-02-20
+1782,Bed,Electronics,292,51,No,44,3,40,Female,Japan,2024-02-21
+1783,Vacuum Cleaner,Electronics,272,77,No,22,2,37,Female,Spain,2024-02-22
+1784,Hair Dryer,Electronics,119,12,No,45,4,55,Male,Russia,2024-02-23
+1785,Dress,Beauty,361,4,Yes,7,3,42,Male,China,2024-02-24
+1786,Yoga Mat,Electronics,260,16,Yes,7,1,45,Male,Italy,2024-02-25
+1787,Exercise Bike,Beauty,150,64,No,25,2,22,Male,France,2024-02-26
+1788,Lipstick,Sports,235,53,No,46,1,38,Female,Australia,2024-02-27
+1789,Basketball,Clothing,181,70,Yes,12,,35,Female,Italy,2024-02-28
+1790,Smartphone,Clothing,160,40,Yes,38,1,64,Male,Mexico,2024-02-29
+1791,Sofa,Clothing,430,42,Yes,36,3,23,Male,Australia,2024-03-01
+1792,Moisturizer,Clothing,181,67,Yes,48,4,46,Male,Brazil,2024-03-02
+1793,Camera,Clothing,69,80,No,27,3,36,Male,Russia,2024-03-03
+1794,Air Purifier,Clothing,443,71,Yes,24,,50,Male,Germany,2024-03-04
+1795,Skirt,Clothing,73,81,No,15,1,18,Female,Australia,2024-03-05
+1796,Smartwatch,Sports,276,40,Yes,1,4,62,Female,Italy,2024-03-06
+1797,Treadmill,Electronics,203,36,Yes,17,4,20,Male,South Africa,2024-03-07
+1798,Smartwatch,Home & Garden,342,-7,Yes,16,,59,Male,Russia,2024-03-08
+1799,Golf Clubs,Beauty,279,-4,No,29,4,38,Male,China,2024-03-09
+1800,Tablet,Home & Garden,359,98,No,38,5,52,Female,United Kingdom,2024-03-10
+1801,Dining Table,Home & Garden,408,24,Yes,12,1,58,Female,United Kingdom,2024-03-11
+1802,Tennis Racket,Electronics,454,37,No,31,3,57,Female,Mexico,2024-03-12
+1803,Tennis Racket,Electronics,251,62,No,49,3,20,Male,France,2024-03-13
+1804,Wireless Earbuds,Electronics,87,61,Yes,28,5,42,Female,France,2024-03-14
+1805,Wireless Earbuds,Clothing,479,34,Yes,45,2,62,Male,Germany,2024-03-15
+1806,Jacket,Sports,,70,No,29,2,55,Female,United Kingdom,2024-03-16
+1807,Skirt,Clothing,237,70,No,17,3,62,Female,Spain,2024-03-17
+1808,Sofa,Sports,106,86,No,12,1,37,Female,Italy,2024-03-18
+1809,Shoes,Sports,478,85,Yes,42,2,61,Male,France,2024-03-19
+1810,Printer,Home & Garden,69,61,Yes,20,,62,Male,Australia,2024-03-20
+1811,Perfume,Home & Garden,322,8,No,29,4,51,Female,France,2024-03-21
+1812,Smartphone,Sports,168,52,Yes,20,4,38,Male,United States,2024-03-22
+1813,Blush,Sports,120,27,Yes,47,5,40,Male,Germany,2024-03-23
+1814,Dress,Clothing,53,56,No,16,3,23,Male,Spain,2024-03-24
+1815,Headphones,Clothing,270,48,No,39,2,30,Male,Japan,2024-03-25
+1816,Smartphone,Home & Garden,63,58,Yes,18,3,40,Male,India,2024-03-26
+1817,Hair Dryer,Electronics,52,2,Yes,14,3,26,Male,Canada,2024-03-27
+1818,Skateboard,Sports,265,36,No,8,4,34,Male,Russia,2024-03-28
+1819,Dumbbells,Clothing,278,99,Yes,9,3,19,Female,India,2024-03-29
+1820,Exercise Bike,Home & Garden,385,50,Yes,43,1,36,Male,Spain,2024-03-30
+1821,Air Purifier,Clothing,235,20,No,30,4,36,Male,India,2024-03-31
+1822,Treadmill,Sports,104,69,No,22,,24,Female,Brazil,2024-04-01
+1823,Gaming Console,Sports,437,85,Yes,29,5,59,Female,South Africa,2024-04-02
+1824,Badminton Set,Beauty,425,11,Yes,32,5,59,Female,Spain,2024-04-03
+1825,Coffee Maker,Electronics,303,82,Yes,8,5,37,Female,Spain,2024-04-04
+1826,Exercise Bike,Beauty,73,75,No,46,3,26,Male,Russia,2024-04-05
+1827,Tablet,Home & Garden,211,32,Yes,0,5,34,Female,Japan,2024-04-06
+1828,Nail Polish,Clothing,207,56,Yes,43,2,44,Female,France,2024-04-07
+1829,Jeans,Home & Garden,131,43,No,34,4,64,Male,South Africa,2024-04-08
+1830,Smartphone,Sports,452,-1,No,10,4,19,Male,Brazil,2024-04-09
+1831,Eyeshadow Palette,Beauty,208,31,Yes,33,1,53,Male,Italy,2024-04-10
+1832,Smartwatch,Beauty,237,53,No,15,5,36,Female,India,2024-04-11
+1833,Rug,Beauty,109,10,No,8,,34,Male,Russia,2024-04-12
+1834,Rug,Home & Garden,452,69,Yes,31,3,22,Female,Spain,2024-04-13
+1835,Skirt,Sports,354,65,No,14,5,56,Male,Italy,2024-04-14
+1836,Moisturizer,Clothing,368,55,No,11,1,35,Male,United States,2024-04-15
+1837,Facial Cleanser,Clothing,415,30,Yes,32,4,24,Female,Canada,2024-04-16
+1838,Dining Table,Home & Garden,260,13,No,44,4,34,Male,India,2024-04-17
+1839,Hoodie,Beauty,455,24,Yes,13,4,56,Male,United Kingdom,2024-04-18
+1840,Tennis Racket,Electronics,201,45,Yes,7,,53,Male,Japan,2024-04-19
+1841,Sofa,Home & Garden,158,19,No,7,5,57,Male,Japan,2024-04-20
+1842,Shoes,Home & Garden,125,46,No,26,5,62,Male,Japan,2024-04-21
+1843,Laptop,Sports,79,83,No,11,3,21,Female,Germany,2024-04-22
+1844,T-Shirt,Clothing,363,36,Yes,0,,55,Female,Germany,2024-04-23
+1845,Badminton Set,Home & Garden,166,24,No,42,1,42,Male,Australia,2024-04-24
+1846,Golf Clubs,Home & Garden,464,8,Yes,39,5,22,Female,Italy,2024-04-25
+1847,Exercise Bike,Beauty,405,-3,No,41,3,47,Female,China,2024-04-26
+1848,Golf Clubs,Beauty,241,15,No,10,1,29,Female,Canada,2024-04-27
+1849,Nail Polish,Electronics,68,93,No,38,4,21,Male,Brazil,2024-04-28
+1850,Exercise Bike,Sports,481,60,Yes,42,3,41,Male,Mexico,2024-04-29
+1851,Shorts,Electronics,222,19,No,30,3,46,Male,South Africa,2024-04-30
+1852,Rug,Beauty,277,-4,No,16,3,26,Female,South Africa,2024-05-01
+1853,Hoodie,Clothing,399,56,Yes,32,,21,Female,South Africa,2024-05-02
+1854,Vacuum Cleaner,Beauty,232,54,Yes,31,2,41,Male,France,2024-05-03
+1855,Exercise Bike,Sports,162,25,No,28,1,31,Male,India,2024-05-04
+1856,Golf Clubs,Beauty,232,14,No,20,4,22,Female,Mexico,2024-05-05
+1857,Yoga Mat,Sports,195,26,No,20,1,35,Female,China,2024-05-06
+1858,Refrigerator,Sports,,-10,Yes,39,4,59,Male,France,2024-05-07
+1859,Hoodie,Sports,165,4,Yes,22,3,36,Female,Brazil,2024-05-08
+1860,Rug,Sports,162,26,Yes,5,,29,Female,South Africa,2024-05-09
+1861,Foundation,Sports,300,2,Yes,21,5,35,Female,China,2024-05-10
+1862,Skirt,Clothing,300,93,No,49,3,34,Female,France,2024-05-11
+1863,Smartwatch,Electronics,352,-3,Yes,37,5,47,Female,United States,2024-05-12
+1864,Curtains,Home & Garden,362,-6,Yes,36,5,41,Female,Mexico,2024-05-13
+1865,Headphones,Electronics,167,49,Yes,44,,28,Female,Germany,2024-05-14
+1866,Wireless Earbuds,Sports,350,62,No,7,4,52,Male,Brazil,2024-05-15
+1867,Skirt,Clothing,210,-10,No,40,1,40,Male,South Africa,2024-05-16
+1868,Wireless Earbuds,Beauty,450,25,Yes,48,4,34,Female,Russia,2024-05-17
+1869,Skirt,Clothing,247,24,Yes,34,4,18,Female,Canada,2024-05-18
+1870,Socks,Sports,309,55,No,10,4,32,Female,United Kingdom,2024-05-19
+1871,Refrigerator,Clothing,197,52,No,23,3,49,Male,United States,2024-05-20
+1872,Smartwatch,Clothing,289,93,No,48,5,26,Male,Germany,2024-05-21
+1873,Exercise Bike,Sports,96,12,No,20,,32,Female,Japan,2024-05-22
+1874,Camera,Clothing,448,-2,No,1,3,45,Male,Germany,2024-05-23
+1875,Laptop,Home & Garden,247,23,No,39,1,41,Female,China,2024-05-24
+1876,Dress,Home & Garden,96,35,No,18,2,52,Female,Spain,2024-05-25
+1877,Mascara,Clothing,127,67,No,38,5,39,Female,Australia,2024-05-26
+1878,Mascara,Beauty,173,-7,Yes,27,4,44,Female,United States,2024-05-27
+1879,Moisturizer,Sports,124,19,Yes,16,4,36,Female,Japan,2024-05-28
+1880,T-Shirt,Home & Garden,408,84,Yes,5,4,62,Female,China,2024-05-29
+1881,Facial Cleanser,Beauty,186,91,Yes,18,4,29,Female,Spain,2024-05-30
+1882,Dining Table,Clothing,139,64,Yes,37,3,37,Male,Brazil,2024-05-31
+1883,Sweater,Beauty,449,88,Yes,27,4,18,Female,Canada,2024-06-01
+1884,Treadmill,Electronics,374,61,No,1,5,38,Male,Germany,2024-06-02
+1885,T-Shirt,Home & Garden,110,-8,No,37,,62,Female,Mexico,2024-06-03
+1886,Sweater,Clothing,187,3,Yes,36,,18,Female,Russia,2024-06-04
+1887,Gaming Console,Sports,99,49,Yes,3,,27,Male,Brazil,2024-06-05
+1888,Headphones,Clothing,308,66,No,21,4,64,Male,Japan,2024-06-06
+1889,Skateboard,Sports,156,34,No,25,,49,Female,China,2024-06-07
+1890,Headphones,Clothing,162,85,No,48,5,56,Male,South Africa,2024-06-08
+1891,Microwave,Beauty,399,23,Yes,42,,39,Female,Australia,2024-06-09
+1892,Tablet,Beauty,303,34,No,35,2,35,Female,South Africa,2024-06-10
+1893,Dumbbells,Beauty,167,50,Yes,12,3,63,Male,Germany,2024-06-11
+1894,Tablet,Electronics,247,72,Yes,31,2,49,Male,Russia,2024-06-12
+1895,Vacuum Cleaner,Sports,386,91,No,16,4,44,Male,Canada,2024-06-13
+1896,Curtains,Beauty,414,5,No,40,3,45,Male,Australia,2024-06-14
+1897,Dumbbells,Electronics,100,55,Yes,35,3,35,Female,France,2024-06-15
+1898,Nail Polish,Sports,294,29,No,45,1,56,Male,China,2024-06-16
+1899,Jacket,Clothing,452,6,No,18,3,46,Male,Brazil,2024-06-17
+1900,Sofa,Electronics,475,23,Yes,34,5,35,Male,Russia,2024-06-18
+1901,Smartwatch,Home & Garden,84,95,No,45,3,61,Male,Italy,2024-06-19
+1902,Shorts,Electronics,351,5,Yes,39,4,25,Male,Germany,2024-06-20
+1903,Air Purifier,Electronics,459,91,Yes,27,4,48,Female,Spain,2024-06-21
+1904,Foundation,Sports,118,49,No,0,5,51,Female,Germany,2024-06-22
+1905,Bed,Clothing,398,55,Yes,41,2,24,Male,Japan,2024-06-23
+1906,Sofa,Home & Garden,369,55,Yes,17,,53,Male,Russia,2024-06-24
+1907,Camera,Beauty,470,79,No,47,4,35,Female,Canada,2024-06-25
+1908,Smartphone,Beauty,98,2,No,39,,55,Male,United Kingdom,2024-06-26
+1909,Smartwatch,Electronics,454,45,No,32,,26,Female,Spain,2024-06-27
+1910,Lipstick,Sports,123,20,Yes,11,3,26,Female,France,2024-06-28
+1911,Jeans,Sports,241,23,Yes,7,1,63,Male,Australia,2024-06-29
+1912,Coffee Maker,Beauty,310,28,No,23,3,25,Female,United States,2024-06-30
+1913,Perfume,Home & Garden,405,56,Yes,15,4,52,Male,United States,2024-07-01
+1914,Exercise Bike,Clothing,119,-3,No,49,2,35,Male,Russia,2024-07-02
+1915,Hair Dryer,Home & Garden,139,76,No,3,2,22,Female,Germany,2024-07-03
+1916,Shoes,Clothing,309,67,Yes,37,4,31,Female,Japan,2024-07-04
+1917,Coffee Maker,Beauty,175,44,No,43,1,45,Male,India,2024-07-05
+1918,Blush,Clothing,280,16,Yes,26,2,47,Female,Mexico,2024-07-06
+1919,Vacuum Cleaner,Sports,344,82,Yes,8,4,21,Male,Russia,2024-07-07
+1920,Printer,Electronics,468,92,No,46,1,56,Female,Germany,2024-07-08
+1921,Coffee Maker,Electronics,178,42,Yes,15,3,37,Female,South Africa,2024-07-09
+1922,Facial Cleanser,Beauty,329,28,No,11,4,42,Male,United States,2024-07-10
+1923,Bed,Sports,362,54,Yes,30,4,45,Male,United States,2024-07-11
+1924,Facial Cleanser,Home & Garden,149,6,Yes,23,5,29,Male,France,2024-07-12
+1925,Rug,Sports,375,94,Yes,13,4,19,Female,Brazil,2024-07-13
+1926,Mascara,Electronics,346,19,No,44,4,60,Male,India,2024-07-14
+1927,Moisturizer,Electronics,231,42,Yes,24,4,31,Male,Germany,2024-07-15
+1928,Skirt,Sports,223,2,No,33,5,39,Female,Spain,2024-07-16
+1929,Coffee Maker,Sports,365,10,Yes,2,5,48,Female,France,2024-07-17
+1930,Football,Electronics,413,8,Yes,23,5,40,Male,Spain,2024-07-18
+1931,Smartphone,Home & Garden,237,42,No,41,4,37,Male,Japan,2024-07-19
+1932,Gaming Console,Beauty,106,8,No,8,2,55,Male,France,2024-07-20
+1933,Hair Dryer,Beauty,80,46,No,25,,21,Male,Germany,2024-07-21
+1934,Basketball,Sports,133,14,No,19,1,32,Female,China,2024-07-22
+1935,Hoodie,Beauty,201,75,No,39,,41,Female,Italy,2024-07-23
+1936,Facial Cleanser,Electronics,85,20,Yes,9,4,42,Male,United Kingdom,2024-07-24
+1937,Bed,Electronics,262,70,Yes,18,5,18,Male,Russia,2024-07-25
+1938,Shoes,Sports,463,44,No,2,3,24,Male,Germany,2024-07-26
+1939,Coffee Maker,Sports,457,12,Yes,23,5,48,Female,Canada,2024-07-27
+1940,Air Purifier,Sports,413,21,Yes,4,3,29,Male,United States,2024-07-28
+1941,Dining Table,Home & Garden,155,51,Yes,2,1,59,Male,India,2024-07-29
+1942,Shoes,Beauty,463,63,No,26,3,22,Female,South Africa,2024-07-30
+1943,Refrigerator,Sports,391,-1,Yes,15,,61,Female,South Africa,2024-07-31
+1944,Laptop,Clothing,269,89,Yes,48,4,59,Male,Spain,2024-08-01
+1945,Blush,Clothing,440,61,Yes,14,5,55,Male,India,2024-08-02
+1946,Coffee Maker,Electronics,212,43,No,34,,29,Female,Russia,2024-08-03
+1947,Shoes,Beauty,488,41,Yes,11,4,56,Male,Brazil,2024-08-04
+1948,TV,Sports,269,9,Yes,40,4,35,Male,United Kingdom,2024-08-05
+1949,Tablet,Clothing,319,21,No,43,3,19,Female,Canada,2024-08-06
+1950,Facial Cleanser,Beauty,169,3,No,25,5,27,Female,United States,2024-08-07
+1951,Dining Table,Electronics,,39,Yes,46,5,32,Female,Italy,2024-08-08
+1952,Perfume,Home & Garden,385,17,Yes,33,5,47,Male,South Africa,2024-08-09
+1953,Mascara,Beauty,449,99,No,22,5,61,Female,Russia,2024-08-10
+1954,Facial Cleanser,Beauty,231,42,No,30,5,34,Female,Russia,2024-08-11
+1955,Blush,Home & Garden,155,13,No,49,3,21,Male,Spain,2024-08-12
+1956,Shorts,Beauty,266,68,No,19,5,24,Male,Russia,2024-08-13
+1957,Golf Clubs,Electronics,254,11,No,11,3,58,Female,India,2024-08-14
+1958,Basketball,Electronics,119,19,No,22,3,48,Female,Canada,2024-08-15
+1959,Hoodie,Home & Garden,93,52,No,3,1,56,Male,Mexico,2024-08-16
+1960,Microwave,Sports,378,-7,Yes,22,5,51,Male,France,2024-08-17
+1961,Tennis Racket,Clothing,350,66,No,47,5,23,Female,Brazil,2024-08-18
+1962,Air Purifier,Sports,277,48,No,47,3,55,Female,Russia,2024-08-19
+1963,Wireless Earbuds,Beauty,233,76,Yes,0,5,62,Male,Germany,2024-08-20
+1964,Badminton Set,Clothing,156,-3,No,24,,51,Female,Germany,2024-08-21
+1965,Skirt,Home & Garden,133,71,No,1,2,61,Male,Russia,2024-08-22
+1966,Badminton Set,Home & Garden,387,1,Yes,29,,32,Female,China,2024-08-23
+1967,Bed,Clothing,299,20,No,2,5,31,Male,Spain,2024-08-24
+1968,Coffee Maker,Electronics,412,67,Yes,20,3,23,Male,Mexico,2024-08-25
+1969,Eyeshadow Palette,Clothing,490,23,Yes,24,4,54,Female,United States,2024-08-26
+1970,Microwave,Beauty,70,71,Yes,19,1,49,Female,Canada,2024-08-27
+1971,Skirt,Electronics,,87,Yes,48,4,20,Male,Australia,2024-08-28
+1972,Dress,Home & Garden,227,64,No,21,5,20,Female,India,2024-08-29
+1973,Socks,Clothing,466,94,Yes,20,4,39,Female,Japan,2024-08-30
+1974,Microwave,Sports,56,65,Yes,32,5,39,Female,Japan,2024-08-31
+1975,Headphones,Sports,119,38,No,37,5,27,Male,Germany,2024-09-01
+1976,Wireless Earbuds,Beauty,176,68,Yes,14,5,20,Female,South Africa,2024-09-02
+1977,Tablet,Sports,448,46,Yes,45,4,29,Female,Australia,2024-09-03
+1978,Lipstick,Clothing,209,84,Yes,14,1,46,Male,Japan,2024-09-04
+1979,Blush,Clothing,297,82,Yes,45,4,34,Female,United Kingdom,2024-09-05
+1980,Shorts,Sports,252,15,No,24,1,24,Female,United Kingdom,2024-09-06
+1981,Facial Cleanser,Clothing,197,7,Yes,20,5,30,Male,United States,2024-09-07
+1982,Football,Beauty,192,85,No,23,,19,Male,Australia,2024-09-08
+1983,Facial Cleanser,Electronics,481,75,No,4,4,21,Female,United Kingdom,2024-09-09
+1984,Bed,Beauty,248,27,Yes,5,3,27,Female,United Kingdom,2024-09-10
+1985,Exercise Bike,Beauty,454,70,Yes,48,5,56,Male,Mexico,2024-09-11
+1986,Facial Cleanser,Clothing,475,76,Yes,42,5,41,Male,Germany,2024-09-12
+1987,Gaming Console,Electronics,203,77,Yes,47,3,34,Female,Japan,2024-09-13
+1988,Skateboard,Clothing,425,39,No,43,5,23,Female,United States,2024-09-14
+1989,Hair Dryer,Home & Garden,433,-3,No,46,3,36,Female,Canada,2024-09-15
+1990,Eyeshadow Palette,Clothing,191,30,No,22,4,22,Male,Russia,2024-09-16
+1991,Jacket,Clothing,362,-5,Yes,3,5,49,Female,France,2024-09-17
+1992,Foundation,Clothing,214,58,No,26,3,27,Male,India,2024-09-18
+1993,Lipstick,Electronics,363,33,Yes,17,,26,Male,India,2024-09-19
+1994,Tennis Racket,Clothing,70,53,Yes,20,2,44,Male,South Africa,2024-09-20
+1995,Camera,Electronics,131,18,Yes,27,1,30,Female,Italy,2024-09-21
+1996,Coffee Maker,Sports,118,17,Yes,34,,36,Female,Brazil,2024-09-22
+1997,Exercise Bike,Home & Garden,180,0,Yes,21,1,38,Female,France,2024-09-23
+1998,Blush,Electronics,136,54,No,39,,41,Male,Spain,2024-09-24
+1999,Camera,Sports,267,96,No,22,,55,Female,France,2024-09-25
+2000,Tennis Racket,Electronics,470,8,Yes,2,2,21,Male,India,2024-09-26
